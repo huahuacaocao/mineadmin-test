@@ -6,7 +6,6 @@
 .git/
 runtime/
 .phpintel/
-.env
 .DS_Store
 .phpunit*
 *.cache
